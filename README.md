@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently Working On Cyber Security **VAPT and WAPT**
 
-- 🌱 I’m Also learning **Artificial Intelligence(AI)**
+- 🌱 I’m Also learning ** Cloud Security And Artificial Intelligence(AI)**
 
-- 💬 Ask me about **Linux | Osint| Malware | Cryptography | Networking**
+- 💬 Ask me about **Linux | Osint | Malware | Cryptography | Networking**
 
 - 📫 How to reach me **Linkedin**
 
