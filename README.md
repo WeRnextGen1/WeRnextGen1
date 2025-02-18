@@ -9,7 +9,7 @@
 
 - 🔭 Bug Hunter at  **HackerOne | BugCrowd | YeWeHack | Intigriti**
 
-- 🌱 I’m Also learning ** Cloud Security And Artificial Intelligence(AI)**
+- 🌱 I’m Also learning **Cloud Security And Artificial Intelligence(AI)**
 
 - 💬 Ask me about **Linux | Osint | Malware | Reverse Engineering | Cryptography | Networking**
 
